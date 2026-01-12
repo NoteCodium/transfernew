@@ -1,0 +1,11 @@
+{
+    "IDX.aI.enableInlineCompletion": true,
+    "IDX.aI.enableCodebaseIndexing": true,
+    "cSpell.words": [
+        "stdc"
+    ],
+    "java.compile.nullAnalysis.mode": "disabled",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
